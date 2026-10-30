@@ -1,0 +1,37 @@
+# Nyx Dark — from nyx-design/crates/nyx-theme/themes/nyx-dark.toml.
+# Keys are chosen so Nyx apps on Follow Omarchy read back the same tokens.
+mode = "dark"
+accent = "#5b9cff"
+selection = "#1d1d1f"
+selection_background = "#162031"
+selection_foreground = "#e8e8ea"
+muted = "#7b7b83"
+
+background = "#09090a"
+dark_background = "#1a1a1c"
+darker_background = "#030303"
+lighter_background = "#2a2a2d"
+
+foreground = "#e8e8ea"
+dark_foreground = "#9a9aa1"
+light_foreground = "#e8e8ea"
+bright_foreground = "#e8e8ea"
+
+red = "#ff6b6b"
+yellow = "#f2b545"
+orange = "#ff7a59"
+green = "#46d08a"
+cyan = "#4cc9d6"
+blue = "#5b9cff"
+magenta = "#9d7bff"
+brown = "#a07a4a"
+
+bright_red = "#ff6b6b"
+bright_yellow = "#f2b545"
+bright_green = "#46d08a"
+bright_cyan = "#4cc9d6"
+bright_blue = "#5b9cff"
+bright_magenta = "#ff6fae"
+
+hyprland_active_border = "#5b9cff"
+hyprland_inactive_border = "#2a2a2d"
