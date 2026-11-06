@@ -5,8 +5,8 @@ import subprocess
 import xml.etree.ElementTree as ET
 
 THEMES = {
-    "nyx-dark": ("#09090a", "#5b9cff"),
-    "nyx-light": ("#f7f7f8", "#2f6fea"),
+    "nyx-dark": ("#0d0e12", "#3d8ae8"),
+    "nyx-light": ("#ecedf2", "#136dcd"),
 }
 
 root = Path(__file__).resolve().parent
